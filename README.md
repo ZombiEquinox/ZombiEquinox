@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZombiEquinox
-- 👀 I’m interested in Javascript, React, NextJS, Remix, Vue, NuxtJS, Laravel, and anything else that comes up
+- 👀 I’m interested in Javascript, React, NextJS, Remix, Vue, NuxtJS, and anything else that comes up
 - 🌱 I’m currently learning Vue and NuxtJS
 - 💞️ I’m looking to collaborate on Front-End Projects.
 - 📫 How to reach me @ZombiEquinox pretty much everywhere
